@@ -1,0 +1,22 @@
+.hidden {
+  display: none;
+}
+.show {
+  display: block;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 200px;
+}
+.ntext,
+.n2text,
+.n3text {
+  margin-top: 300px;
+  text-align: center;
+  font-size: 50px;
+}
+input,
+.input2 {
+  width: 300px;
+  height: 35px;
+  font-size: 30px;
+}
